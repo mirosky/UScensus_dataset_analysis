@@ -5,8 +5,9 @@ You will find instructions for the test below. Once it is finished, please share
 Best regards,
 Léo.
  
+---
 
-The following link lets you download an archive containing an “exercise” US Census dataset: http://thomasdata.s3.amazonaws.com/ds/us_census_full.zip
+The following link lets you download an archive containing an “exercise” US Census dataset : `http://thomasdata.s3.amazonaws.com/ds/us_census_full.zip`
 This US Census dataset contains detailed but anonymized information for approximately 300,000 people.
 
 The archive contains 3 files: 
